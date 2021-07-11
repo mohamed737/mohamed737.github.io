@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a7de474.chunk.css",
+    "main.js": "/static/js/main.7912d5d2.chunk.js",
+    "main.js.map": "/static/js/main.7912d5d2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5f526b4b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5f526b4b.js.map",
+    "static/js/2.f149d4b1.chunk.js": "/static/js/2.f149d4b1.chunk.js",
+    "static/js/2.f149d4b1.chunk.js.map": "/static/js/2.f149d4b1.chunk.js.map",
+    "static/js/3.392e55bd.chunk.js": "/static/js/3.392e55bd.chunk.js",
+    "static/js/3.392e55bd.chunk.js.map": "/static/js/3.392e55bd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6a7de474.chunk.css.map": "/static/css/main.6a7de474.chunk.css.map",
+    "static/js/2.f149d4b1.chunk.js.LICENSE.txt": "/static/js/2.f149d4b1.chunk.js.LICENSE.txt",
+    "static/media/john-doe.80dd217d.png": "/static/media/john-doe.80dd217d.png",
+    "static/media/sarah-edo.6b9031ba.png": "/static/media/sarah-edo.6b9031ba.png",
+    "static/media/tyler-mcginnis.2b33febf.png": "/static/media/tyler-mcginnis.2b33febf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f526b4b.js",
+    "static/js/2.f149d4b1.chunk.js",
+    "static/css/main.6a7de474.chunk.css",
+    "static/js/main.7912d5d2.chunk.js"
+  ]
+}
